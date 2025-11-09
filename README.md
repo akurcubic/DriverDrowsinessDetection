@@ -35,6 +35,3 @@ The system triggers an alert when the driver’s eyes remain closed for a certai
 - Draws bounding box around face  
 - Displays EAR value  
 - Shows alert text when conditions are met
-
-## 📦 Requirements
-
