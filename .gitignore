@@ -1,0 +1,24 @@
+# Virtual environments
+facedetection310/
+venv/
+.venv/
+
+# Data folders
+data/
+aug_data/
+
+# Logs
+logs/
+
+# Jupyter internal folders
+.ipynb_checkpoints/
+.virtual_documents/
+
+# Large binaries
+*.dll
+*.pyd
+*.so
+*.dylib
+
+# TensorFlow saved model
+facetracker.h5
